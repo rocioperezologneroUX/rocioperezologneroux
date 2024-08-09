@@ -1,6 +1,9 @@
-## Hola 👋🏼, soy Rocio. 
+## Bienvenidos a mi github 👋🏼, 
 
- ### Soy **UX Engineer / UI Developer** 
+ ### Soy **UX Engineer / UI Developer**
+
+ #### 3 conceptos principales que me definen:
+**Design System, Accesibilidad y Front-end**
 
 ---
 
