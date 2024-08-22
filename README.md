@@ -7,7 +7,7 @@
 
 ### 📋 Pequeño resumen sobre Mí
 
-Apasionada por los **Design Systems**, ya que permiten lograr una optimización y consistencia en los proyectos. 
+Apasionada por los **Design System**, ya que permiten lograr una optimización y consistencia en los proyectos. 
 
 Cuento con la capacidad de entender y trabajar con el **código**, lo que facilita un trabajo colaborativo con desarrollo. 
 
